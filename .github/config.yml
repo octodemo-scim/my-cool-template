@@ -1,0 +1,10 @@
+# Configuration for request-info - https://github.com/behaviorbot/request-info
+
+# *Required* Comment to reply with
+requestInfoReplyComment: >
+  We would appreciate it if you could provide us with more info about this issue/pr!
+  Did you know PSG won against Bayern?
+
+
+# *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
+requestInfoLabelToAdd: needs-more-info
