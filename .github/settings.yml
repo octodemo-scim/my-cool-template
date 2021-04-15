@@ -23,3 +23,5 @@ labels:
   - name: Bayern
     # include the old name to rename and existing label
     oldname: Help Wanted
+  - name: needs-more-info
+    color: FF0000
